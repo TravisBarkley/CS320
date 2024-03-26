@@ -1,0 +1,7 @@
+edge1,vertexA,vertexB
+edge2,vertexB,vertexC
+edge3,vertexC,vertexD
+edge4,vertexD,vertexA
+edge5,vertexA,vertexE
+edge6,vertexB,vertexF
+edge7,vertexC,vertexG
